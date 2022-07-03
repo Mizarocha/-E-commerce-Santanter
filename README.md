@@ -1,4 +1,5 @@
-# DesafioFrontend
+# Criando um front-end de um e-commerce utilizando Angular e Bootstrap.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Projeto Final:
+
+![santander](https://user-images.githubusercontent.com/88461178/177047887-dbabeee3-9a09-4133-8772-4f3637dbeae5.JPG)
