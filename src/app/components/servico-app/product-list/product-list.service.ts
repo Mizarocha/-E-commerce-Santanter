@@ -22,11 +22,17 @@ export class ProdutosService {
 
    constructor(private http:HttpClient){}
 
+  getProdutos(){
+return produtos;
+}
 
+  
+  
+/*
 getProdutos(){
   return this.http.get(this.url)
 }
-
+*/
 
 
 
