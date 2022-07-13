@@ -20,13 +20,15 @@ export class ProductListComponent implements OnInit {
 
   ngOnInit(): void {
 
-    this.produtos = this.produtosService.getProdutos().subscribe((data => {
-
+    this.produtos = this.produtosService.getProdutos()
+      
+     /* 
+      .subscribe((data => {
       this.produtos = data;
       console.log(this.produtos);
 
     }))
-
+*/
 
   }
 
