@@ -1,5 +1,18 @@
 # Criando um front-end de um e-commerce utilizando Angular e Bootstrap.
 
+ Projeto criado em um bootcamp da DIO em parceria do BANCO SANTANDER.
+
+ Foi criado em ANGULAR, no projeto original foi feito uma livraria
+
+- Criei uma interface do Santander, que tem uma Api que buscas dos dados da página.
+
+
+
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
