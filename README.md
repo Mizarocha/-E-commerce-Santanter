@@ -26,6 +26,7 @@ npm install
 Para iniciar o comando da:
 ```
 ng serve
+```
 
 ### Projeto Final:
 
