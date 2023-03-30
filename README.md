@@ -34,6 +34,9 @@ Para iniciar o comando da:
 ng serve
 ```
 
+### Deploy: 
+https://e-commerce-santanter.vercel.app/   
+
 ### Projeto Final:
 
 <div>
