@@ -1,11 +1,14 @@
 
 button {
-background-color: red;
-color:white;
-text-align: center;
-
+  background-color: red;
+  color: white;
+  text-align: center;
+  border: 5px;
+  border-radius: 10px;
+  margin: 10px;
 }
 
-button:hover{
-  color:black;
+button:hover {
+  color: black;
 }
+
