@@ -8,7 +8,8 @@
 [Visual Studio Code](https://code.visualstudio.com/)   
 
 ### Linguagens:  
-- [Angular](https://angular.io/docs)    
+- [Angular](https://angular.io/docs)   
+- [TypeScript](https://www.typescriptlang.org/)
 - [Bootstrap](https://getbootstrap.com.br/)   
  
 
@@ -17,7 +18,7 @@
 Clone o projeto com esse comando:
 
 ```
-https://github.com/Mizarocha/react-nutri.git
+https://github.com/Mizarocha/-E-commerce-Santanter.git
 ```
 Instale a dependência do projeto:
 ```
