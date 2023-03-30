@@ -37,7 +37,7 @@ ng serve
 ### Projeto Final:
 
 <div>
-<img src="https://user-images.githubusercontent.com/88461178/177047887-dbabeee3-9a09-4133-8772-4f3637dbeae5.JPG"/>
+<img src="https://user-images.githubusercontent.com/88461178/228931247-7358aba7-3043-4df6-b924-03cf27d87a1a.jpg"/>
 </div>
 
 
