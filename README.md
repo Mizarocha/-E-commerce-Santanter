@@ -1,45 +1,45 @@
-# Criando um front-end de um e-commerce utilizando Angular e Bootstrap.
+<h1 align="center">Criando um Front-end de um E-commerce</h1>
 
- Projeto criado em um bootcamp da DIO em parceria do BANCO SANTANDER.
+#### Projeto criado em um bootcamp da DIO em parceria do BANCO SANTANDER.
 
- Foi criado em ANGULAR, no projeto original foi feito uma livraria
+ - Foi desenvolvido uma interface, que consome uma  API que buscas dos dados da página.
 
-- Criei uma interface do Santander, que tem uma Api que buscas dos dados da página.
+### Ferramenta:   
+[Visual Studio Code](https://code.visualstudio.com/)   
+
+### Linguagens:  
+- [Angular](https://angular.io/docs)    
+- [Bootstrap](https://getbootstrap.com.br/)   
+ 
+
+### Rodar Projeto:
+
+Clone o projeto com esse comando:
+
+```
+https://github.com/Mizarocha/react-nutri.git
+```
+Instale a dependência do projeto:
+```
+npm install 
+```
+Para iniciar o comando da:
+```
+ng serve
+
+### Projeto Final:
+
+<div>
+<img src="https://user-images.githubusercontent.com/88461178/177047887-dbabeee3-9a09-4133-8772-4f3637dbeae5.JPG"/>
+</div>
 
 
+<h3 align="center">Artemiza Rocha</h3>
 
-
-
-
-
-
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-# Projeto Final:
-
-![santander](https://user-images.githubusercontent.com/88461178/177047887-dbabeee3-9a09-4133-8772-4f3637dbeae5.JPG)
+<div align="center">
+  <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </div>
+  <div align="center">
+  <h4>Desenvolvido com ❤️</h4>
+  </div>
