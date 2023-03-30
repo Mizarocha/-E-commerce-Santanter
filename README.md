@@ -8,9 +8,14 @@
 [Visual Studio Code](https://code.visualstudio.com/)   
 
 ### Linguagens:  
-- [Angular](https://angular.io/docs)   
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Bootstrap](https://getbootstrap.com.br/)   
+  
+ ### Frameworks:   
+ - [Angular](https://angular.io/docs)  
+ - [Bootstrap](https://getbootstrap.com.br/)
  
 
 ### Rodar Projeto:
